@@ -10,6 +10,8 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        maven { url "https://nexus3-public.monetplus.cz/repository/ahead-talsec-free-rasp" }
+        maven { url "https://jitpack.io" }
     }
 }
 rootProject.name = "Mobile App"

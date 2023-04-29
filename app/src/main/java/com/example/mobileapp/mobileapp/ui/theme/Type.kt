@@ -1,4 +1,4 @@
-package com.tcs.ngm.banking.mobileapp.ui.theme
+package com.example.mobileapp.mobileapp.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
